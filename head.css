@@ -1,0 +1,37 @@
+.head{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+}
+.search{
+  display: block;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  padding: 10px 50px 10px 10px;
+  font-size: medium;
+  margin-bottom: 10px;
+  height: 20px;
+  max-width: 300px;
+}
+.h1, .h2, .h3, .h4, .h5, .h6{
+  height: 25px;
+  margin-right: 20px;
+}
+.h2{
+  height: 20px;
+}
+.h6{
+  height: 30px;
+}
+.left-section{
+  display: flex;
+  align-items: center;
+}
+.right-section{
+  display: flex;
+}
+.middle-section{
+  display: flex;
+}
